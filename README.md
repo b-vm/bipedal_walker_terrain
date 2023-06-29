@@ -3,7 +3,9 @@
 This repository contains code to *train* and *run* the perceptive bipedal locomotion policies presented in the [thesis]()/[paper](https://arxiv.org/abs/2304.07236) **Learning Perceptive Bipedal Locomotion over Irregular Terrain**.
 
 
-[insert image]
+![](./fig1_page-0001.jpg)
+
+
 
 ## What is this?
 We developed a bipedal locomotion policy using Reinforcement Learning. Our policy improves on the state-of-the-art by integrating (noisy) exteroception, and walking over all kinds of difficult terrains. This repo contains the code to reproduce the results.
