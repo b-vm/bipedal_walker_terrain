@@ -1,6 +1,6 @@
 # Learning Perceptive Bipedal Locomotion over Irregular Terrain
 
-This repository contains code to *train* and *run* the perceptive bipedal locomotion policies presented in the [thesis]()/[paper](https://arxiv.org/abs/2304.07236) **Learning Perceptive Bipedal Locomotion over Irregular Terrain**.
+This repository contains code to *train* and *run* the perceptive bipedal locomotion policies presented in the [thesis](https://fse.studenttheses.ub.rug.nl/id/eprint/30171)/[paper](https://arxiv.org/abs/2304.07236) **Learning Perceptive Bipedal Locomotion over Irregular Terrain**.
 
 
 ![](./fig1_page-0001.jpg)
