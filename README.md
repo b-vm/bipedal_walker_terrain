@@ -94,6 +94,7 @@ conda activate bipedal_walker
 
 Install requirements
 ```bash
+cd src
 pip install -r requirements.txt
 ```
 
@@ -112,7 +113,7 @@ pip install .
 
 
 ### 4. Try running the included model
-cd back into this repo and:
+cd back into `/src` repo and:
 ```bash
 python run.py teacher exteroception demo-model 100000 1
 ```
